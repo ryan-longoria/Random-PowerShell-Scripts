@@ -11,3 +11,5 @@ $ Get-ADGroupMemberDate.ps1
 $ Get-RemoteMachine-Info.ps1
 
 $ Map-LexmarkPrinters.ps1
+
+$ Restart-Session.ps1
