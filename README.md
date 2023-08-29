@@ -9,3 +9,5 @@ $ Get-ADGroupMemberDate.ps1
   -ModifiedCounter
 
 $ Get-RemoteMachine-Info.ps1
+
+$ Map-LexmarkPrinters.ps1
