@@ -8,3 +8,4 @@ $ Get-ADGroupMemberDate.ps1
   -State
   -ModifiedCounter
 
+$ Get-RemoteMachine-Info.ps1
