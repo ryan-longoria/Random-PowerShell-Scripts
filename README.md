@@ -17,3 +17,5 @@ $ Restart-Session.ps1
 $ Get-ExchangeInfo.ps1
 
 $ Create-WindowsTask.ps1
+
+$ Lockouts.ps1
