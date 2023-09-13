@@ -19,3 +19,5 @@ $ Get-ExchangeInfo.ps1
 $ Create-WindowsTask.ps1
 
 $ Lockouts.ps1
+
+$ SCCM_CCMCACHE_Clean.ps1
