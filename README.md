@@ -1,4 +1,4 @@
-# Tech Support/Help Desk scripts for Frequent tasks
+# PowerShell scripts for frequent tasks
 
 $ Get-ADGroupMemberDate.ps1
   -Group
